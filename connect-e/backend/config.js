@@ -1,0 +1,3 @@
+let jwtString = 'UWNPOUNTXEZQNIUWHNNAXOPWIHDUANCIOOJJOFNNIAJFOJWF'; 
+
+exports.jwtString = jwtString

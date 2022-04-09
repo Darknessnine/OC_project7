@@ -1,0 +1,45 @@
+.backdrop {
+    max-width: 450px;
+    margin: 100px auto;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 6px 6px #ced8d8;
+  
+  }
+
+  button {
+    background: rgb(53, 176, 192);
+    border: 0;
+    padding: 10px 30px;
+    margin: 25px auto;
+    display: block;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+
+  label {
+    color: #2c3e50;
+    display: inline-block;
+    margin: 15px 0 15px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+  }
+
+  input,
+  select {
+
+    padding: 10px 6px;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    
+  }
+  
